@@ -4,16 +4,16 @@
 
 .app,
 .callout-backdrop {
-    background-image: url("http://imgur.com/no5ySc5");
+    background-image: url("http://i.imgur.com/no5ySc5.jpg");
     background-size: cover !important;
     background-position: center !important;
 }
 .bda-backdrop {
-    background: url("http://imgur.com/no5ySc5");
+    background: url("http://i.imgur.com/no5ySc5");
     background-size: cover!important;
 }
 #pubs-container:before {
-	background: url("http://imgur.com/no5ySc5")!important;
+	background: url("http://i.imgur.com/no5ySc5")!important;
     background-size: cover!important;
 }
 .layers { 
@@ -1014,7 +1014,7 @@ span.discriminator {
     color: rgba(255, 255, 255, 0) !important;
 }
 .user-popout .header {
-    background: #680000 url(http://imgur.com/a/3pRYR);
+    background: #680000 url(http://i.imgur.com/a/3pRYR);
     background-size: 124%;
     background-repeat: no-repeat;
     background-position-y: 30%;
@@ -1143,7 +1143,7 @@ span.discriminator {
     border-bottom: 1px solid #9f0000;
 }
 .popout-menu-icon span[style*="background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ9Ik0wIDBoMTh2MThIMHoiLz4KICAgIDxwYXRoIGZpbGw9IiM3Mjg5REEiIGQ9Ik03LjU0NTM1MzQgMTEuMjM0Mjg3M2w1Ljc2LTUuMTkwMDAwMDRjLjI1NS0uMjMyNS0uMDUyNS0uMzQ1LS4zOS0uMTQyNWwtNy4xMSA0LjQ5MjUwMDA0LTMuMDc1LS45NzUwMDAwNGMtLjY2LS4xODc1LS42Njc1LS42NDUuMTUtLjk3NWwxMS45Nzc1LTQuNjJjLjU0NzUtLjI0NzUgMS4wNzI1LjEzNS44NjI1Ljk3NWwtMi4wNCA5LjYwNzUwMDA0Yy0uMTQyNS42ODI1LS41NTUuODQ3NS0xLjEyNS41MzI1bC0zLjEwNS0yLjI5NS0xLjQ5MjUgMS40NDc1Yy0uMTcyNS4xNzI1LS4zMTUuMzE1LS42MjI1LjMxNWwuMjEtMy4xNzI1eiIvPgogIDwvZz4KPC9zdmc+");"] {
-    background-image: url(http://imgur.com/no5ySc5) !important;
+    background-image: url(http://i.imgur.com/no5ySc5) !important;
 }
 .popout-menu .popout-menu-item:hover.invite,
 .popout-menu .popout-menu-item:hover,
@@ -1843,7 +1843,7 @@ scroller.settings-wrapper.settings-panel {
     background: rgba(0,0,0,0);
 }
 .tab-bar.SIDE {
-    background-image: url(http://imgur.com/KIChrBp);
+    background-image: url(http://i.imgur.com/KIChrBp);
     background-size: 85%;
     background-repeat: no-repeat;
     background-position-y: 480px;
