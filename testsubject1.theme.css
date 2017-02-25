@@ -695,7 +695,7 @@ a:link {
     color: #BF0000;
 }
 .chat>.title-wrap>.title .channel-name:before {
-    content: 'â™”';
+    content: '>';
     color: rgb(189, 0, 0);
 }
 
